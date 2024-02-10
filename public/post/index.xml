@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on welcome Aziz!</title>
-    <link>http://example.org/post/</link>
+    <link>https://ambitious-rock-0fcf54810.4.azurestaticapps.net/post/</link>
     <description>Recent content in Posts on welcome Aziz!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ambitious-rock-0fcf54810.4.azurestaticapps.net/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to my Blog!</title>
-      <link>http://example.org/post/welcome/</link>
+      <link>https://ambitious-rock-0fcf54810.4.azurestaticapps.net/post/welcome/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/welcome/</guid>
+      <guid>https://ambitious-rock-0fcf54810.4.azurestaticapps.net/post/welcome/</guid>
       <description>Welcome to my Blog! Hello and welcome to my blog! As a cloud engineer, I will be sharing my knowledge and experiences in the world of cloud computing. Whether you&amp;rsquo;re a beginner or an experienced professional, I hope you&amp;rsquo;ll find valuable insights and practical tips here.
 About Me I am a passionate cloud engineer with several years of experience working with various cloud platforms such as AWS, Azure, and Google Cloud.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/post/hireme/</link>
+      <link>https://ambitious-rock-0fcf54810.4.azurestaticapps.net/post/hireme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/hireme/</guid>
+      <guid>https://ambitious-rock-0fcf54810.4.azurestaticapps.net/post/hireme/</guid>
       <description>Aziz Cloud Engineer | AWS Certified | 5 Years of Experience
 Summary Highly skilled and motivated Cloud Engineer with 5 years of experience in designing, implementing, and managing cloud infrastructure solutions. Strong expertise in AWS services, including EC2, S3, RDS, and Lambda. Proven track record of optimizing cloud environments for scalability, performance, and cost-efficiency. Excellent problem-solving and communication skills.
 Experience Cloud Engineer | XYZ Company *Implemented and managed cloud infrastructure for multiple clients, ensuring high availability and scalability.</description>
